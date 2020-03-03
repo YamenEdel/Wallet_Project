@@ -1,3 +1,3 @@
 # Wallet_Project
  
-My final year project that I 
+This is my final year project devoloping a location awareness system which tracks an object inside a closed enviroment.
