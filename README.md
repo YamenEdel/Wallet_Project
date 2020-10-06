@@ -4,4 +4,4 @@ This is my final year project devoloping a location awareness system which track
 
 ## Visuals
 The Technology used for this project as shown in the picture is the RFID reader with the tag
-<img src = "images/RFID.PNG" width = "200">
+<img src = "images/RFID.png" width = "200">
