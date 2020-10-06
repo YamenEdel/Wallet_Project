@@ -11,6 +11,11 @@ Where the reader reads and captures information stored on a tag attached to an o
 
 <img src = "images/RFID.png" width = "400">
 
+Below is a demo of how the tracking system works, showing all the functionlaities with how the user's name is displayed once it's detected by a reader.
+
+<img src="Video/demo.gif"  width="350" height="440">
+
+
 ## Installation
 I will be talking you through the required software to run the system. Eclipse is the development enviroment used to build up this project. So the project application can be running off this software, it can be downloaded from [here](https://www.eclipse.org/downloads/).
 Java Software is also needed and you can get it [here](https://www.java.com/en/download/). Lastly to interact with the RFID readers, there is a software to download online and you can get it by following this [link](https://www.phidgets.com/docs/Phidgets_Drivers).
