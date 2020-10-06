@@ -23,7 +23,7 @@ Java Software is also needed and you can get it [here](https://www.java.com/en/d
 Now there are two parts for the project, the server and the client. Apache Tomcat is a java servlet that should be hosted and running to transfer the data to the database, validate it and bring it back to the client.
 In order to run the server, you need to donwload it from this [link](https://tomcat.apache.org/download-90.cgi). Then click on PhidgetServer project, servlets, run SensorServerRFIDdata.
 
-Now, the server should be up and running, but the RFID readers are still offline. go to JavaFX_GUI_Project, readers, there will be 3 reader classess and you need to run them all in order to trun them on. 
+Now, the server should be up and running, but the RFID readers are still offline. go to JavaFX_GUI_Project, readers, there will be 3 reader classes and you need to run them all in order to switch them on. 
 
 The next step is to display the User Interface in order to interact with the system. Go to Main and run the main class as Java Application and you're all set.
 
