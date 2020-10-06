@@ -13,7 +13,7 @@ Where the reader reads and captures information stored on a tag attached to an o
 
 Below is a demo of how the tracking system works, showing all the functionlaities with how the user's name is displayed once it's detected by a reader.
 
-<img src="Video/demo.gif"  width="350" height="440">
+<img src="Video/demo.gif"  width="450" height="440">
 
 
 ## Installation
