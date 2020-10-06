@@ -1,4 +1,4 @@
-# Wallet_Project
+# Wallet Project
  
 This is my final year project devoloping a location awareness system which tracks the movement of an object(wallet) inside a closed enviroment.
 
