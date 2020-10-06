@@ -17,7 +17,7 @@ Below is a demo of how the tracking system works, showing all the functionlaitie
 
 
 ## Installation
-I will be talking you through the required software to run the system. Eclipse is the development enviroment used to build up this project. So the project application can be running off this software, it can be downloaded from [here](https://www.eclipse.org/downloads/).
+I will be talking you through the required software to run the system. Eclipse is the development enviroment used to build up this project. So the project application can be running using this software, it can be downloaded from [here](https://www.eclipse.org/downloads/).
 Java Software is also needed and you can get it [here](https://www.java.com/en/download/). Lastly to interact with the RFID readers, there is a software to download online and you can get it by following this [link](https://www.phidgets.com/docs/Phidgets_Drivers).
 
 Now there are two parts for the project, the server and the client. Apache Tomcat is a java servlet that should be hosted and running to transfer the data to the database, validate it and bring it back to the client.
