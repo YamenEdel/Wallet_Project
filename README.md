@@ -8,6 +8,7 @@ Developing a tracking system that is able to track the movement of an object ind
 ## Visuals
 The Technology used for this project as shown in the picture is the RFID reader with the tag.
 Where the reader reads and captures information stored on a tag attached to an object which is the wallet through the radio waves.
+
 <img src = "images/RFID.png" width = "400">
 
 ## Installation
